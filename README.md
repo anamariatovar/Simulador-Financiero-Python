@@ -1,5 +1,7 @@
 # Simulador financiero (Python)
 
+**Proyecto estudiantil** desarrollado con fines académicos y de aprendizaje (programación en Python y nociones de finanzas básicas).
+
 Aplicación educativa que estima el costo de un **préstamo con interés simple** y muestra un **semáforo de alerta** según qué tan elevado es el interés en relación con el capital prestado. Puedes usarla con **interfaz gráfica** (ventana) o por **consola**, según prefieras.
 
 ---
@@ -161,10 +163,12 @@ flowchart TD
 ## Notas
 
 - El modelo es **interés simple**: el interés no se capitaliza año a año. Para créditos reales a menudo se usa interés compuesto u otras reglas.
-- El proyecto encaja bien en cursos de **programación con Python** (incluida POO si amplías el código con clases) donde se prioriza claridad, una sola fuente de verdad para los cálculos y dos interfaces para el mismo núcleo.
+- Como **proyecto estudiantil**, el código prioriza claridad y una sola fuente de verdad para los cálculos, con dos interfaces (GUI y consola) sobre el mismo núcleo.
 
 ---
 
 ## Licencia y autoría
 
-Define aquí la licencia y los autores si el proyecto es para entrega académica o repositorio público.
+Este repositorio corresponde a un **proyecto estudiantil**; no constituye asesoría financiera ni un producto listo para uso comercial.
+
+Define aquí la licencia (por ejemplo MIT), el curso o materia, y los nombres de los integrantes si entregas el trabajo en equipo o lo publicas.
